@@ -1,6 +1,6 @@
 2020년도에 Spring Framework를 사용해 만든 게시판입니다.
 
-DataBase는 Oracle 11g를 사용했습니다.
+Tomcat 8.5v와 Oracle 11g를 사용했습니다.
 
 [Melonpeach](https://melonpeach.tistory.com/category/%EC%9B%B9%EA%B0%9C%EB%B0%9C/%EC%8A%A4%ED%94%84%EB%A7%81%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)님이 작성한 스프링 게시판 만들기 포스팅을 참고했습니다.
 
